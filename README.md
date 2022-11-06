@@ -6,7 +6,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Getting Started
 
-1. Clone your repository onto your local device.
+1. Clone the repository onto your local device.
 2. Go into the directory LightBnB_WebApp using `cd LightBnB_WebApp`
 3. Install dependencies using the `npm install` command.
 4. Start the web server using the `npm run local` command. The app will be served at <http://localhost:3000/>.
